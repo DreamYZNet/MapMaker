@@ -33,7 +33,7 @@ console.log("GET ID: " + map_name);
 	<script src="./scripts/model/tokenmap.js"></script>
 	<script src="./scripts/model/tokendb.js"></script>
 	<script src="./scripts/model/mapfile.js"></script>
-	<script src="./scripts/login.js"></script>
+	<script src="./scripts/model/login.js"></script>
 	<script src="./scripts/tokenfiles.js"></script>
 	
 	<script src="./scripts/mapmaker.js"></script>
